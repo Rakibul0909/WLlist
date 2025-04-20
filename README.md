@@ -24,6 +24,8 @@
 
 1. Clone this repository:
 
+`pkg update && pkg upgrade -y`
+
 `pkg install python -y`
 
 `git clone https://github.com/Rakibul0909/WLlist.git`
