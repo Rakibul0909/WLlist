@@ -24,7 +24,10 @@
 
 1. Clone this repository:
 
-```bash
-git clone https://github.com/Rakibul0909/WLlist.git
-cd WLlist
-python3 wllist.py
+`pkg install python -y`
+
+`git clone https://github.com/Rakibul0909/WLlist.git`
+
+`cd WLlist`
+
+`python3 wllist.py`
